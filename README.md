@@ -21,7 +21,6 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://isabela-fernanda.github.io/QR-code/](https://isabela-fernanda.github.io/QR-code/)
 
 ## Meu processo
